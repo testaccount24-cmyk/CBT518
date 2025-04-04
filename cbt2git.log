@@ -1,0 +1,15 @@
+2025-04-04 11:03:19.882898 - Received CBT.V508.FILE518.PDS from FILE518.XMI 
+2025-04-04 11:03:19.883890 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE518.PDS, moved to PDS/$$$#DATE
+2025-04-04 11:03:19.884048 - Found $$README.txt (text/plain) in CBT.V508.FILE518.PDS, moved to PDS/$$README
+2025-04-04 11:03:19.884206 - Found @FILE518.txt (text/plain) in CBT.V508.FILE518.PDS, moved to PDS/@FILE518
+2025-04-04 11:03:19.884339 - Found AUXBOOS$.txt (text/plain) in CBT.V508.FILE518.PDS, moved to PDS/AUXBOOS$
+2025-04-04 11:03:19.884461 - Found AUXBOOST.txt (text/plain) in CBT.V508.FILE518.PDS, moved to PDS/AUXBOOST
+2025-04-04 11:03:19.884584 - Found HZSRACF.txt (text/plain) in CBT.V508.FILE518.PDS, moved to PDS/HZSRACF
+2025-04-04 11:03:19.884719 - Found IEFUSIG.txt (text/plain) in CBT.V508.FILE518.PDS, moved to PDS/IEFUSIG
+2025-04-04 11:03:19.884843 - Found MAKEXMI.rexx (text/plain) in CBT.V508.FILE518.PDS, moved to PDS/MAKEXMI
+2025-04-04 11:03:19.884964 - Found MAKEXMIU.rexx (text/plain) in CBT.V508.FILE518.PDS, moved to PDS/MAKEXMIU
+2025-04-04 11:03:19.885091 - Found ME.txt (text/plain) in CBT.V508.FILE518.PDS, moved to PDS/ME
+2025-04-04 11:03:19.885221 - Found NOTME.txt (text/plain) in CBT.V508.FILE518.PDS, moved to PDS/NOTME
+2025-04-04 11:03:19.885342 - Found PUTPARM.txt (text/plain) in CBT.V508.FILE518.PDS, moved to PDS/PUTPARM
+2025-04-04 11:03:19.885464 - Found SC.txt (text/plain) in CBT.V508.FILE518.PDS, moved to PDS/SC
+2025-04-04 11:03:19.885587 - Found SUBX.rexx (text/plain) in CBT.V508.FILE518.PDS, moved to PDS/SUBX
